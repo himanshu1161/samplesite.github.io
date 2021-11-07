@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+body{
+    background-image: url("2.jpg");
+    /* height: 100vh; */
+    background-size: 100%;
+}
+.class{
+    margin-top: 190px;
+    margin-left: 48px;
+    font-family: 'Open Sans', sans-serif;
+
+    
+}
+p{
+    font-size: 20px;
+    color: black; 
+}
+::placeholder{
+    color:black;
+}
+.class{
+    border: 2px solid black;
+    display: inline flow-root list-item;
+padding: 50px;
+border-radius: 64px;
+}
